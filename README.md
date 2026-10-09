@@ -88,7 +88,7 @@ Additional exported charts are available in the [`images`](images/) folder.
 | `analysis` | Jupyter Notebook containing the data preparation, analysis, and visualizations |
 | `data/WhiteHouseVisitLogs` | Six monthly White House visitor-log CSV files |
 | `images` | Exported portfolio visualizations |
-| `presentation` | PowerPoint presentation summarizing the analysis |
+| `presentation` | PDF version of PowerPoint presentation summarizing the analysis |
 | `requirements.txt` | Python package requirements |
 
 ## Project Materials
