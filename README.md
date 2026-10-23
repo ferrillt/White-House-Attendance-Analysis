@@ -94,7 +94,7 @@ Additional exported charts are available in the [`images`](images/) folder.
 ## Project Materials
 
 - [View the Jupyter Notebook](analysis/WhiteHouseAttendance_Analysis.ipynb)
-- [View the PowerPoint presentation](presentation/WhiteHouseAttendanceAnalysis_presentation.pptx)
+- [View the PowerPoint presentation](presentation/WhiteHouseAttendanceAnalysis_presentation.pdf)
 - [View the exported visualizations](images/)
 
 ## Running the Analysis
