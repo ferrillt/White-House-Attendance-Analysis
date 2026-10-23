@@ -85,15 +85,15 @@ Additional exported charts are available in the [`images`](images/) folder.
 
 | Path | Contents |
 |---|---|
-| `analysis` | Jupyter Notebook containing the data preparation, analysis, and visualizations |
 | `data/WhiteHouseVisitLogs` | Six monthly White House visitor-log CSV files |
 | `images` | Exported portfolio visualizations |
+| `notebook` | Jupyter Notebook containing the data preparation, analysis, and visualizations |
 | `presentation` | PDF version of PowerPoint presentation summarizing the analysis |
 | `requirements.txt` | Python package requirements |
 
 ## Project Materials
 
-- [View the Jupyter Notebook](analysis/WhiteHouseAttendance_Analysis.ipynb)
+- [View the Jupyter Notebook](notebook/WhiteHouseAttendance_Analysis.ipynb)
 - [View the PowerPoint presentation](presentation/WhiteHouseAttendanceAnalysis_presentation.pdf)
 - [View the exported visualizations](images/)
 
@@ -124,7 +124,7 @@ pip install -r requirements.txt
 Move into the notebook folder:
 
 ```bash
-cd analysis
+cd notebook
 ```
 
 Start Jupyter Notebook and open the analysis:
